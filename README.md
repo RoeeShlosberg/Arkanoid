@@ -78,10 +78,15 @@ This project demonstrates:
 ### Running the Game
 
 1. Clone this repository
-2. Compile the Java files
+
+2. Compile the Java files:
+```bash
+javac -cp biuoop-1.4.jar -d bin src\*.java src\animationRun\*.java src\animationRun\pause\*.java src\gamePlay\*.java src\gamePlay\collision\*.java src\gamePlay\gameSettings\*.java src\gamePlay\levels\*.java src\gamePlay\removing\*.java src\gamePlay\score\*.java src\gamePlay\screenDraw\*.java src\gamePlay\time\*.java src\generators\*.java src\geometry\axis\*.java src\geometry\objects\*.java src\runningTests\*.java
+```
+
 3. Run the main class:
 ```bash
-java -cp biuoop-1.4.jar;bin Ass6Game
+java -cp "biuoop-1.4.jar;bin" Ass6Game
 ```
 
 ### Controls
