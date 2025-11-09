@@ -96,7 +96,7 @@ java -cp "biuoop-1.4.jar;bin" Ass6Game
 
 ## 🖼️ Project screenshots
 
-Below are two project screenshots (stored in `images/levels/`):
+Below are two levels of the Game:
 
 <div style="display:flex; gap:12px; align-items:center;">
 	<img src="images/img_1.png" alt="Project screenshot 1" width="320" />
