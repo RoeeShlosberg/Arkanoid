@@ -94,6 +94,15 @@ java -cp "biuoop-1.4.jar;bin" Ass6Game
 - **p** to pause the game
 - **SPACE** to continue after pause/game over
 
+## 🖼️ Project screenshots
+
+Below are two project screenshots (stored in `images/levels/`):
+
+<div style="display:flex; gap:12px; align-items:center;">
+	<img src="images/img_1.png" alt="Project screenshot 1" width="320" />
+	<img src="images/img_2.png" alt="Project screenshot 2" width="320" />
+</div>
+
 ## 🎓 About
 
 This Arkanoid game was developed as a programming project that demonstrates strong Object-Oriented design principles and Java programming skills. The architecture allows for easy extension with new levels, game elements, or features.
